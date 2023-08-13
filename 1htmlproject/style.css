@@ -1,0 +1,32 @@
+body{
+
+}
+.main{
+    width: 650px;
+    height: auto;
+    margin: auto;
+    border: 2px solid green;
+    padding: 10px 0;
+}
+.container{
+    width: 600px;
+    border: 2px solid rgb(252, 3, 219);
+    margin: auto;
+    padding: 10px;
+}
+section{
+    padding-left: 15px;
+
+}
+section img{
+    width: 400px;
+}
+.lower{
+    border: 2px solid rgb(252, 3, 219);
+    width: 600px;
+    height: 150px;
+    line-height: 5px;
+    margin-top: 20px;
+    padding: 5px;
+    padding-left: 10px;
+}
